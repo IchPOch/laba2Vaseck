@@ -57,4 +57,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>Эксперементальные значения:
+318 1.359
+323 1.866
+328 2.528
+333 3.381
+338 4.467
+343 5.873
+348 7.633
+353 9.828
+358 12.520
+363 15.808
+368 19.861
+373 24.685
+378 30.467
+383 37.357
+388 45.451
+393 54.875
+398 65.845
+403 78.450</value>
+  </data>
 </root>
